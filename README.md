@@ -1,2 +1,3 @@
-# javascript_w6
-Week 6 Homework
+# javascript-module-2.6
+
+https://github.com/SocialHackersCodeSchool/JavaScript2/blob/master/Week6/MAKEME.md
